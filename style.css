@@ -1,0 +1,17 @@
+body {
+    background-image: url("beach-pool.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: none;
+}
+
+body .row {
+    font-size: 150%;
+    text-align: center;
+    color: #3366ff;
+}
+
+body .row .col .signup {
+    color: red;
+    font-size: 150%;
+}
